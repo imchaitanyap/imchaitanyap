@@ -1,6 +1,3 @@
-# Welcome to My GitHub Profile
-
-
 
 
 # Hi 👋, I'm Chaitanya Patil
