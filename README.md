@@ -54,8 +54,18 @@
   <br>
   
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/chaitanya-patil-591774267/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
- <a target="_blank" href="https://www.instagram.com/chaitanya_patil9" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
+<p>
+  <a target="_blank" href="https://www.linkedin.com/in/chaitanya-patil-591774267/" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
+  </a>
+  <a target="_blank" href="https://www.instagram.com/chaitanya_patil9" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" />
+  </a>
+  <a target="_blank" href="https://leetcode.com/u/kYsvsUvn94/" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/leetcode-logo?style=for-the-badge&logo=leetcode&logoColor=white&color=%23FFA116" alt="leetcode" />
+  </a>
+</p>
+
 
 <br>
 
